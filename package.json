@@ -1,0 +1,14 @@
+{
+  "name": "deal-chinese-multiplayer",
+  "version": "1.0.0",
+  "private": true,
+  "type": "commonjs",
+  "description": "地产争锋中文实时联机版 4人房间和AI补位",
+  "scripts": {
+    "start": "node server.js",
+    "test": "node test_rules.js && node test.js"
+  },
+  "engines": {
+    "node": ">=18"
+  }
+}
